@@ -1,0 +1,15 @@
+current directory: /Users/tylersanchez/Desktop/CSC4500_Programs/sanchez_Question2/school_page/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+/Users/tylersanchez/.rvm/rubies/ruby-2.3.7/bin/ruby -r ./siteconf20181202-1246-ss57ca.rb extconf.rb
+creating Makefile
+
+current directory: /Users/tylersanchez/Desktop/CSC4500_Programs/sanchez_Question2/school_page/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/tylersanchez/Desktop/CSC4500_Programs/sanchez_Question2/school_page/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/tylersanchez/Desktop/CSC4500_Programs/sanchez_Question2/school_page/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 cruby.bundle ./.gem.20181202-1246-1por0cm/bindex

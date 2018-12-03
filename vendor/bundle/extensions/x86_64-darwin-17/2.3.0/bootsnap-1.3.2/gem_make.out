@@ -1,0 +1,15 @@
+current directory: /Users/tylersanchez/Desktop/CSC4500_Programs/sanchez_Question2/school_page/vendor/bundle/gems/bootsnap-1.3.2/ext/bootsnap
+/Users/tylersanchez/.rvm/rubies/ruby-2.3.7/bin/ruby -r ./siteconf20181202-1246-z0mckk.rb extconf.rb
+creating Makefile
+
+current directory: /Users/tylersanchez/Desktop/CSC4500_Programs/sanchez_Question2/school_page/vendor/bundle/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/tylersanchez/Desktop/CSC4500_Programs/sanchez_Question2/school_page/vendor/bundle/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/tylersanchez/Desktop/CSC4500_Programs/sanchez_Question2/school_page/vendor/bundle/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 bootsnap.bundle ./.gem.20181202-1246-13lta07/bootsnap

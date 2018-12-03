@@ -1,0 +1,19 @@
+current directory: /Users/tylersanchez/Desktop/CSC4500_Programs/sanchez_Question2/school_page/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+/Users/tylersanchez/.rvm/rubies/ruby-2.3.7/bin/ruby -r ./siteconf20181202-1246-t4sb4p.rb extconf.rb
+creating Makefile
+
+current directory: /Users/tylersanchez/Desktop/CSC4500_Programs/sanchez_Question2/school_page/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/tylersanchez/Desktop/CSC4500_Programs/sanchez_Question2/school_page/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/tylersanchez/Desktop/CSC4500_Programs/sanchez_Question2/school_page/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 byebug.bundle ./.gem.20181202-1246-1u3xll7/byebug
